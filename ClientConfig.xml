@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Emoti Collect" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="EmojiCollect" enableFreeSpin="Y" clientversion="1.0" gameId="300-2102-1" />
+	<GameClient name="Emoti Collect" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="EmojiCollect" enableFreeSpin="Y" clientversion="1.0" gameId="300-2102-1" />
+	<GameClient name="Emoti Collect" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="EmojiCollect" enableFreeSpin="Y" clientversion="1.0" gameId="300-2102-1" />
+</ClientConfig>
